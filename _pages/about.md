@@ -13,7 +13,7 @@ This website is currently under construction. Please check back soon for updates
 
 ---
 
-Hello! I am a Ph.D. student and Research Assistant in Nuclear Engineering at Oregon State University, and I like to consider myself a computational physicist. I earned my bachelor's degree in Physics from Akdeniz University, Turkey and later completed my master's degree in Nuclear Engineering at Texas A&M University, focusing on nuclear safeguards approaches for molten salt reactors. 👍 Howdy Aggies! Currently, at Oregon State University, my doctoral research involves computational methods applied to nuclear engineering problems. 🦫 Go Beavs!
+Hello! I am a Ph.D. student and Graduate Research Assistant in Nuclear Engineering at Oregon State University, and I like to consider myself a computational physicist. I earned my bachelor's degree in Physics from Akdeniz University, Turkey and later completed my master's degree in Nuclear Engineering at Texas A&M University, focusing on nuclear safeguards approaches for molten salt reactors. 👍 Howdy Aggies! Currently, at Oregon State University, my doctoral research involves computational methods applied to nuclear engineering problems. 🦫 Go Beavs!
 
 ---
 
