@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Melek Derman"
 description              : &description "Ph.D. Student / Research Assistant in Nuclear Engineeting at Oregon State University."
 url                      : https://melekderman.github.io 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "melekderman/melekderman.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "melekderman/melekderman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Melek Derman"
   pronouns         : "she/her"  
   bio              : "Ph.D. Student / Research Assistant in Nuclear Engineeting at Oregon State University"
