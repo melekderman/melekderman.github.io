@@ -22,21 +22,20 @@ Hello! I'm a Ph.D. student and Research Assistant in Nuclear Engineering at Oreg
 <div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin-bottom:24px;">
   <a href="https://cement-psaap.github.io/members/melek_derman/" target="_blank">
     <strong>CEMeNT PSAAP: Melek Derman</strong><br>
-    <small>Team member bio at CEMeNT PSAAP.</small>
-  </a>
-</div>
-
-<div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin-bottom:24px;">
-  <a href="https://nsspi.tamu.edu/nsspi-student-investigates-nuclear-safeguards-approaches-for-molten-salt-reactors/" target="_blank">
-    <strong>NSSPI: Investigating Safeguards for Molten Salt Reactors</strong><br>
-    <small>Research feature on nuclear safeguards approach development.</small>
+    <small>Member at CEMeNT PSAAP.</small>
   </a>
 </div>
 
 <div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin-bottom:24px;">
   <a href="https://nsspi.tamu.edu/melek-derman/" target="_blank">
     <strong>NSSPI: Melek Derman Profile</strong><br>
-    <small>Official student profile at Texas A&M NSSPI.</small>
+    <small>NSSPI Graduate.</small>
   </a>
 </div>
 
+<div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin-bottom:24px;">
+  <a href="https://nsspi.tamu.edu/nsspi-student-investigates-nuclear-safeguards-approaches-for-molten-salt-reactors/" target="_blank">
+    <strong>NSSPI: Investigating Safeguards for Molten Salt Reactors</strong><br>
+    <small>Nuclear Safeguards Approaches for Molten Salt Reactors.</small>
+  </a>
+</div>
