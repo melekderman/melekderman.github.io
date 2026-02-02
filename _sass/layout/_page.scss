@@ -354,6 +354,29 @@
   }
 }
 
+/* (removed duplicate small publications heading) */
+
+/* Mobile typography tweaks: increase headline/body sizes on small screens */
+@media (max-width: 600px) {
+  .intro-statement__headline {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  .intro-statement__body {
+    font-size: 1rem;
+  }
+
+  .feature__item,
+  .archive__item {
+    font-size: 0.98rem;
+  }
+
+  .page__title {
+    font-size: 1.5rem;
+  }
+}
+
 /* Affiliations grid */
 .about__affiliations {
   margin-top: 3rem;
@@ -442,19 +465,23 @@
 }
 
 /* Publications category headings (thesis, manuscripts, journal, etc.) */
-.publications__category {
-  font-size: $type-size-2;
+.publications__category,
+h2.publications__category {
   font-weight: 700;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
-  color: var(--global-text-color);
+  color: var(--global-text-color) !important;
+  line-height: 1.05;
+
+  /* sensible base sizes (mobile first) */
+  font-size: 1.6rem !important;
 
   @include breakpoint($medium) {
-    font-size: $type-size-1;
+    font-size: 2.0rem !important;
   }
 
   @include breakpoint($large) {
-    font-size: 2.5em;
+    font-size: 2.5rem !important;
   }
 }
 

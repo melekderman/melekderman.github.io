@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <section class="projects-section">
-  <h2>Softwares I Contribute To</h2>
+  <h2>Softwares/ Repositories I Contribute To</h2>
   <p class="section-intro">Projects I actively work on or contribute to as part of my research.</p>
   <div class="project-grid">
     <a href="https://github.com/CEMeNT-PSAAP/MCDC" target="_blank" class="project-card">
