@@ -11,7 +11,7 @@ redirect_from:
       <h3>About Me</h3>
     <div class="intro-statement__content">
       <p style="color: #555; font-size: 0.95em; line-height: 1.6; margin-bottom: 30px;">I am a Ph.D. student and Graduate Research Assistant at Oregon State University, working under Professor Todd S. Palmer. My research interests include Monte Carlo and deterministic particle transport methods, as well as computational techniques for developing scalable algorithms on exascale systems.</p>
-      <p>I hold a B.S. in Physics with Honors from Akdeniz University (Turkey) and an M.S. in Nuclear Engineering from Texas A&M University, where I focused on nuclear safeguards monitoring approaches for molten salt reactors. My doctoral research involves high-performance computing optimization and multiscale physics simulations, with applications ranging from reactor physics to radiation effects in electronic systems.</p>
+      <p style="color: #555; font-size: 0.95em; line-height: 1.6; margin-bottom: 30px;">I hold a B.S. in Physics with Honors from Akdeniz University (Turkey) and an M.S. in Nuclear Engineering from Texas A&M University, where I focused on nuclear safeguards monitoring approaches for molten salt reactors. My doctoral research involves high-performance computing optimization and multiscale physics simulations, with applications ranging from reactor physics to radiation effects in electronic systems.</p>
     </div>
   </div>
 </section>
