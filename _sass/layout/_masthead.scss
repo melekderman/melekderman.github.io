@@ -4,7 +4,9 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: rgba(250, 251, 252, 0.95);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   height: fit-content;
   top: 0;
   width: 100%;
@@ -19,15 +21,15 @@
     content: "";
     position: absolute;
     bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
+    height: 10px;
+    background: rgba(26, 32, 44, 0.06);
     width: 100%;
   }
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    padding: 0.875em 1.5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -40,6 +42,7 @@
 
     a {
       text-decoration: none;
+      letter-spacing: 0.01em;
     }
   }
 }
@@ -61,7 +64,63 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 1em;
     font-weight: 700;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.5rem;
+    letter-spacing: 0.01em;
+    
+    a {
+      color: #F8255A !important;
+      font-size: 8.5rem !important;
+      padding: 0 !important;
+      font-weight: 700 !important;
+      font-family: 'Dancing Script', cursive !important;
+    }
   }
+}
+
+.visible-links {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+
+  a {
+    font-size: 1.25rem !important;
+    font-weight: 500;
+    padding: 1.7rem 1.25rem;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    color: var(--global-text-color-light);
+
+    &:hover {
+      background: rgba(#0b1e2d, 0.05);
+      color: var(--global-text-color);
+    }
+  }
+
+  .masthead__menu-item--lg a {
+    font-size: 2.5rem !important;
+    color: #F8255A !important;
+    padding: 0 !important;
+    font-weight: 700 !important;
+    font-family: 'Dancing Script', cursive !important;
+  }
+
+  .current {
+    a {
+      font-size: 4rem;
+      background: var(--global-link-color);
+      color: #fff;
+
+      &:hover {
+        background: var(--global-link-color-hover);
+      }
+    }
+  }
+}
+
+/* Temporarily hide the theme toggle button (dark mode icon) */
+#theme-toggle {
+  display: none !important;
 }

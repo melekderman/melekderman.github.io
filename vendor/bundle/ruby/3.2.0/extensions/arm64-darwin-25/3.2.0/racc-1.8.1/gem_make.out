@@ -1,0 +1,19 @@
+current directory: /Users/melekderman/github/website/melekderman.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/melekderman/github/website/melekderman.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-29000-j36muv sitelibdir\=./.gem.20260131-29000-j36muv clean
+
+current directory: /Users/melekderman/github/website/melekderman.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-29000-j36muv sitelibdir\=./.gem.20260131-29000-j36muv
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/melekderman/github/website/melekderman.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-29000-j36muv sitelibdir\=./.gem.20260131-29000-j36muv install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260131-29000-j36muv/racc
+
+current directory: /Users/melekderman/github/website/melekderman.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-29000-j36muv sitelibdir\=./.gem.20260131-29000-j36muv clean

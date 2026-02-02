@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Melek Derman"
+title                    : "MD"
 title_separator          : "-"
 name                     : &name "Melek Derman"
-description              : &description "Ph.D. Student / Research Assistant in Nuclear Engineeting at Oregon State University."
+description              : &description "Ph.D. Student / Graduate Research Assistant in Nuclear Engineering at Oregon State University."
 url                      : https://melekderman.github.io 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "melekderman/melekderman.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Melek Derman"
   pronouns         : "she/her"  
-  bio              : "Ph.D. Student / Research Assistant in Nuclear Engineeting at Oregon State University"
+  bio              : "Ph.D. Student / Graduate Research Assistant in Nuclear Engineering at Oregon State University"
   location         : "OR"
   employer         : "Oregon State University"
   uri              : "https://rtrp.github.io/osu-transport/users/dermanm"
@@ -37,9 +37,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6124-6771"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=melek+derman"
+  researchgate     : "https://www.researchgate.net/profile/Melek-Derman"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56070874100"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -54,7 +54,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # "melekderman"
+  goodreads        : "melekderman"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username

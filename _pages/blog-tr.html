@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Blog Posts (TR)"
+permalink: /blog-tr/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign posts_tr = site.posts | where: "lang", "tr" %}
+{% for post in posts_tr %}
+  {% include archive-single.html %}
+{% endfor %}
