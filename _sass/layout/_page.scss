@@ -441,6 +441,23 @@
   }
 }
 
+/* Publications category headings (thesis, manuscripts, journal, etc.) */
+.publications__category {
+  font-size: $type-size-2;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--global-text-color);
+
+  @include breakpoint($medium) {
+    font-size: $type-size-1;
+  }
+
+  @include breakpoint($large) {
+    font-size: 2.5em;
+  }
+}
+
 .news-card {
   display: block;
   padding: 2rem;

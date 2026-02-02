@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education & Experience"
+title: ""
 permalink: /experience/
 author_profile: true
 ---
@@ -83,7 +83,7 @@ author_profile: true
       <div class="timeline-marker"></div>
       <div class="timeline-content">
         <span class="timeline-date">Jan 2023 – May 2024</span>
-        <h3>MS Thesis – NSSPI</h3>
+        <h3>Graduate Student</h3>
         <p class="timeline-org">Texas A&M University</p>
         <ul>
           <li>Nuclear Safeguards Feasibility Study for a Theoretical Molten Salt Reactor</li>
@@ -133,7 +133,7 @@ author_profile: true
       <h4>Languages</h4>
       <div class="skill-tags">
         <span>Turkish (Native)</span>
-        <span>English (Fluent)</span>
+        <span>English</span>
       </div>
     </div>
   </div>
@@ -171,28 +171,6 @@ author_profile: true
 </section>
 
 <section class="experience-section">
-  <h2>National Laboratory Training</h2>
-  <div class="timeline">
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <span class="timeline-date">Apr 2024</span>
-        <h3>Office of International Nuclear Safeguards Nonproliferation Workshop</h3>
-        <p class="timeline-org">Oak Ridge National Laboratory, Oak Ridge, TN</p>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <span class="timeline-date">Mar 2024</span>
-        <h3>SEE LANL Nondestructive Assay Training Course</h3>
-        <p class="timeline-org">Los Alamos National Laboratory, NM</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="experience-section">
   <h2>Professional Memberships</h2>
   <div class="membership-grid">
     <div class="membership-card">
@@ -219,7 +197,7 @@ author_profile: true
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <span class="timeline-date">2021</span>
+        <span class="timeline-date">Jun. 2021</span>
         <h3>A.A. in Justice</h3>
         <p class="timeline-org">Anadolu University, Eskişehir, Turkey</p>
       </div>
@@ -227,16 +205,7 @@ author_profile: true
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <span class="timeline-date">2016</span>
-        <h3>Pedagogical Formation Certificate in Physics Teaching</h3>
-        <p class="timeline-org">Akdeniz University, Antalya, Turkey</p>
-        <p>One-year teacher education and practicum program</p>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <span class="timeline-date">2015</span>
+        <span class="timeline-date">Jun. 2015</span>
         <h3>B.A. in Business Administration</h3>
         <p class="timeline-org">Anadolu University, Eskişehir, Turkey</p>
       </div>
@@ -253,6 +222,15 @@ author_profile: true
         <span class="timeline-date">May 2017</span>
         <h3>Occupational Health and Safety Specialist</h3>
         <p class="timeline-org">The Turkish Ministry of Labor and Social Security</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <span class="timeline-date">Jan. 2016</span>
+        <h3>Pedagogical Formation Certificate in Physics Teaching</h3>
+        <p class="timeline-org">Akdeniz University, Antalya, Turkey</p>
+        <p>One-year teacher education and practicum program</p>
       </div>
     </div>
   </div>
