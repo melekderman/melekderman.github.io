@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "MD"
+title                    : "Melek Derman"
 title_separator          : "-"
 name                     : &name "Melek Derman"
 description              : &description "Ph.D. Student / Graduate Research Assistant in Nuclear Engineering at Oregon State University."
