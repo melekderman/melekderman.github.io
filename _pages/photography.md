@@ -22,9 +22,9 @@ author_profile: true
   </div>
 
   <div style="flex: 2 1 300px; min-width: 200px; padding: 15px; background: #f9f9f9; border-left: 4px solid #333; border-radius: 4px;">
-    <h3 style="margin-top: 0; font-family: inherit;">Chicago, IL '2022</h3>
+    <h3 style="margin-top: 0; font-family: inherit;">Washington DC '2022</h3>
     <p style="font-size: 0.9em; color: #555; margin-bottom: 0;">
-      A street-level look at Chicago's grand architecture. The symmetry of the stone steps and towering facades captures the scale and rhythmic pace of life in the Windy City. 
+        A street-level look at Washington DC’s grand architecture. The symmetry of the stone steps and towering facades reflects the city’s monumental character and calm, deliberate pace. 
     </p>
   </div>
 

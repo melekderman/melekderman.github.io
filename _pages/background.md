@@ -14,7 +14,10 @@ author_profile: true
         <span class="timeline-date">Sept 2024 – Present</span>
         <h3>Ph.D. in Nuclear Engineering</h3>
         <p class="timeline-org">Oregon State University, Corvallis, OR</p>
-        <p>CARRE (DOE PSAAP IV), CEMeNT (DOE PSAAP III), Radiation Transport and Reactor Physics Research Group</p>
+        <p>Radiation Transport and Reactor Physics Research Group (RTRP)</p>
+        <p>Center for Advancing the Radiation Resilience of Electronics (CARRE)</p>
+        <p>Center for Exascale Monte Carlo Neutron Transport (CEMeNT)</p>
+
       </div>
     </div>
     <div class="timeline-item">
