@@ -49,7 +49,7 @@ author_profile: true
       <div class="timeline-content">
         <span class="timeline-date">Sept 2025 – Present</span>
         <h3>Graduate Research Assistant</h3>
-        <p class="timeline-org">Oregon State University</p>
+        <p class="timeline-org">Oregon State University, Center for Advancing the Radiation Resilience of Electronics</p>
         <ul>
           <li>Implementing single-scattering electron transport capability in MC/DC</li>
           <li>Designing and implementing V&V suite for electron transport module</li>
@@ -61,7 +61,7 @@ author_profile: true
       <div class="timeline-content">
         <span class="timeline-date">June 2025 – Sept 2025</span>
         <h3>Graduate Project Assistant</h3>
-        <p class="timeline-org">Oregon State University</p>
+        <p class="timeline-org">Oregon State University, Center for Exascale Monte Carlo Neutron Transport</p>
         <ul>
           <li>Enabled CAD-based geometry input in MC/DC by integrating GEOUNED support</li>
           <li>Developed PyEEDL, a Python tool for ENDF-6 formatted EEDL dataset conversion</li>
@@ -72,8 +72,8 @@ author_profile: true
       <div class="timeline-marker"></div>
       <div class="timeline-content">
         <span class="timeline-date">Sept 2024 – June 2025</span>
-        <h3>Graduate Research Assistant – CEMeNT</h3>
-        <p class="timeline-org">Oregon State University</p>
+        <h3>Graduate Research Assistant</h3>
+        <p class="timeline-org">Oregon State University, Center for Exascale Monte Carlo Neutron Transport</p>
         <ul>
           <li>Implemented and verified analytical benchmarks in MC/DC (asymmetric supercritical transients, multigroup reactor-physics)</li>
           <li>Configured AMD Omnitrace profiling tool on CEMeNT's AMD CPU/GPU systems</li>
