@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Spectral Analysis of Time-Dependent One-Cell Inversion Transport Method using Windowed DMD"
+title: "Sequential Window Dynamic Mode Decomposition for Spectral Analysis of Transport Iterations"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-02-01-upcoming-paper
@@ -8,7 +8,7 @@ date: 2026-02-01
 venue: 'In preparation'
 paperurl: ''
 bibtexurl: ''
-citation: 'M. Derman, J. P. Morgan, K. E. Niemeyer, and T. S. Palmer, "Dynamic Spectral Analysis of Time-Dependent One-Cell Inversion Transport Method using Windowed DMD," (in preparation).'
+citation: 'M. Derman, J. P. Morgan, K. E. Niemeyer, and T. S. Palmer, "Sequential Window Dynamic Mode Decomposition for Spectral Analysis of Transport Iterations," (in preparation).'
 status: 'In preparation'
 key_words: 'Nuclear Engineering · Dynamic Mode Decomposition · Deterministic Radiation Transport'
 ---
