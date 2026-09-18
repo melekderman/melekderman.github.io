@@ -12,11 +12,9 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="flex: 1 1 400px; max-width: 400px; overflow: hidden;">
-    <div class='pixels-photo'>
-      <a href='https://500px.com/photo/1120674366/the-soul-of-the-city-2-by-melek-derman'>
-        <img src='https://drscdn.500px.org/photo/1120674366/q%3D75_m%3D600/v2?sig=a6c1bc432f6c0ca26be2e6ec7150ab192e2f8d1a3a12727092384e7c198d4eb9' 
-             style='width: 100% !important; height: auto !important; display: block; border-radius: 4px;' 
-             alt='The Soul of the City #2 by Melek Derman on 500px.com'>
+    <div class='embed-500px-photo'>
+      <a href='https://500px.com/photo/jmWvTM7WlYb'>
+        <img src='https://cdn-resize-prod-com.500px.cloud/photo/1120674366/0.jpg?s=1&p=MTAyODM4MTI1Mg&t=QkFTSUM&expiry=1789779600&sig=13acd5c9627fab5645d88065b57799f66616903173eb160c8d3f3741a0879d77' alt='The Soul of the City #2 by Melek Derman on 500px.com' />
       </a>
     </div>
   </div>
@@ -33,12 +31,10 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="flex: 1 1 400px; max-width: 400px; overflow: hidden;">
-    <div class='pixels-photo'>
-      <a href='https://500px.com/photo/1120685496/cherry-blossom-by-melek-derman'>
-        <img src='https://drscdn.500px.org/photo/1120685496/q%3D75_m%3D600_k%3D1/v2?sig=72db5308c66b3ca980271f0d94d790b98bf4cd03f93467b561117047ae04482e'
-             style='width: 100% !important; height: auto !important; display: block; border-radius: 4px;' 
-             alt='Cherry Blossom  by Melek Derman on 500px.com'>
-      </a>
+     <div class='embed-500px-photo'>
+       <a href='https://500px.com/photo/41TPmxUDSyh'>
+         <img src='https://cdn-resize-prod-com.500px.cloud/photo/1120685496/0.jpg?s=1&p=MTAyODM4MTI1Mg&t=QkFTSUM&expiry=1789779600&sig=21396e0e09ba401f4b07d4db8ec9f25ddc6442bd99840a04dca77d8b11ce1f27' alt='Cherry Blossom  by Melek Derman on 500px.com' />
+       </a>
     </div>
   </div>
 
@@ -54,11 +50,9 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="flex: 1 1 400px; max-width: 400px; overflow: hidden;">
-    <div class='pixels-photo'>
-      <a href='https://500px.com/photo/1120674367/oppenheimer-by-melek-derman'>
-        <img src='https://drscdn.500px.org/photo/1120674367/q%3D75_m%3D600_k%3D1/v2?sig=44a7e8606e0ada7712b2517ba76766f22e4f2fb55265bac5186dfac76babeea6' 
-             style='width: 100% !important; height: auto !important; display: block; border-radius: 4px;' 
-             alt='Oppenheimer by Melek Derman on 500px.com'>
+    <div class='embed-500px-photo'>
+      <a href='https://500px.com/photo/zwyJ9YgwYuy'>
+        <img src='https://cdn-resize-prod-com.500px.cloud/photo/1120674367/0.jpg?s=1&p=MTAyODM4MTI1Mg&t=QkFTSUM&expiry=1789779600&sig=eb8fe014c5cec70f44c0e293421bc383cbd202ea7c876ce23556ed7480f1495b'     alt='Oppenheimer by Melek Derman on 500px.com' />
       </a>
     </div>
   </div>
@@ -75,11 +69,9 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="flex: 1 1 400px; max-width: 400px; overflow: hidden;">
-    <div class='pixels-photo'>
-      <a href='https://500px.com/photo/1120674716/austin-by-melek-derman'>
-        <img src='https://drscdn.500px.org/photo/1120674716/q%3D75_m%3D600/v2?sig=080724b559363b84d8ce03d581dda6ebfe682777e0d34d9ce1901928e5496f83' 
-             style='width: 100% !important; height: auto !important; display: block; border-radius: 4px;' 
-             alt='Austin by Melek Derman on 500px.com'>
+    <div class='embed-500px-photo'>
+      <a href='https://500px.com/photo/iuSN81GeYWI'>
+        <img src='https://cdn-resize-prod-com.500px.cloud/photo/1120674716/0.jpg?s=1&p=MTAyODM4MTI1Mg&t=QkFTSUM&expiry=1789779600&sig=cf487f26c1339bdbea149502e84770779b489288d58e2542c9b3c17a8d91e624' alt='Austin by Melek Derman on 500px.com' />
       </a>
     </div>
   </div>
@@ -96,11 +88,9 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="flex: 1 1 400px; max-width: 400px; overflow: hidden;">
-    <div class='pixels-photo'>
-      <a href='https://500px.com/photo/1120674364/the-soul-of-the-city-1-by-melek-derman'>
-        <img src='https://drscdn.500px.org/photo/1120674364/q%3D75_m%3D600_k%3D1/v2?sig=c7b3ee52025497a934982cd652106ae10baa73c24b0743cd8777fd9d8aa67321' 
-             style='width: 100% !important; height: auto !important; display: block; border-radius: 4px;' 
-             alt='The Soul of the City #1 by Melek Derman on 500px.com'>
+    <div class='embed-500px-photo'>
+      <a href='https://500px.com/photo/vScIZzP3T8h'>
+        <img src='https://cdn-resize-prod-com.500px.cloud/photo/1120674364/0.jpg?s=1&p=MTAyODM4MTI1Mg&t=QkFTSUM&expiry=1789779600&sig=e7f13a5db25aa343e0b16c979ad322b3c8ab4099ec05405d293442b1a2f55c87' alt='The Soul of the City #1 by Melek Derman on 500px.com' />
       </a>
     </div>
   </div>
@@ -117,11 +107,9 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="flex: 1 1 400px; max-width: 400px; overflow: hidden;">
-    <div class='pixels-photo'>
-      <a href='https://500px.com/photo/1120674721/stanford-1-by-melek-derman'>
-        <img src='https://drscdn.500px.org/photo/1120674721/q%3D75_m%3D600/v2?sig=22d9f11a12bfb353432a995f03673bcaac464ba487e2c6b7461eafaafddabaf4' 
-             style='width: 100% !important; height: auto !important; display: block; border-radius: 4px;' 
-             alt='Stanford #1 by Melek Derman on 500px.com'>
+    <div class='embed-500px-photo'>
+      <a href='https://500px.com/photo/R6dqy4OBoGm'>
+        <img src='https://cdn-resize-prod-com.500px.cloud/photo/1120674721/0.jpg?s=1&p=MTAyODM4MTI1Mg&t=QkFTSUM&expiry=1789779600&sig=b098a6493e5ecd41694d3d8d8f37e878273ddff6d3835f0cf640a89306ba26e6' alt='Stanford #1 by Melek Derman on 500px.com' />
       </a>
     </div>
   </div>
