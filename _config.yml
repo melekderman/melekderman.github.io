@@ -185,7 +185,6 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
-  - LICENSE
   - local
   - log
   - node_modules
