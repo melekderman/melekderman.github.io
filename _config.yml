@@ -79,6 +79,8 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'
+  in_preparation:
+    title: 'Manuscripts in Preparation'
   thesis:
     title: 'Thesis'
   conferences:
@@ -162,6 +164,10 @@ include:
   - _pages
   - files
 exclude:
+  # Keep maintenance notes and reference examples out of the published site.
+  - _maintenance
+  - _pages/archive-layout-with-content.md
+  - _pages/markdown.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

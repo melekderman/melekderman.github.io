@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv-json/
+redirect_to: /files/MelekDerman_CV_Website.pdf
 author_profile: false
 redirect_from:
   - /resume-json
